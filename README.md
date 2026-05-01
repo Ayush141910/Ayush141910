@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-meshram025/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meshramayush765@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecstatic-dubinsky-1.emergent.host/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-two-orcin-btti7o0q2p.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Ayush141910/Ayush141910/blob/main/resume.md)
 
 </div>
@@ -151,7 +151,7 @@ I am always open to conversations around data science, analytics engineering, au
 
 - LinkedIn: [ayush-meshram025](https://www.linkedin.com/in/ayush-meshram025/)
 - Email: [meshramayush765@gmail.com](mailto:meshramayush765@gmail.com)
-- Portfolio: [ecstatic-dubinsky-1.emergent.host](https://ecstatic-dubinsky-1.emergent.host/)
+- Portfolio: [portfolio-two-orcin-btti7o0q2p.vercel.app](https://portfolio-two-orcin-btti7o0q2p.vercel.app)
 
 ---
 
