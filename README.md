@@ -37,15 +37,16 @@ Tech: Python, FastAPI, JavaScript, HTML/CSS, anomaly scoring, forecasting logic,
 
 ### [ValorPredict - Valorant Match Outcome Predictor & Performance Analyzer](https://github.com/Ayush141910/valorpredict)
 
-A machine learning and analytics project for predicting match outcomes and exploring player, agent, and map performance.
+A machine learning dashboard for predicting Valorant match outcomes and analyzing how agents, maps, and team compositions influence performance.
 
-- Built a Python ML workflow for gameplay data preprocessing, model training, and prediction
-- Trained logistic regression and random forest models for match outcome classification
-- Created visual analysis with heatmaps, bar charts, and histograms to compare agents, maps, and team compositions
-- Developed a Streamlit dashboard for real-time prediction and performance insights
+- Processed gameplay data into model-ready features for match context, player performance, agent selection, map choice, and team composition
+- Trained and compared logistic regression and random forest classifiers to predict match outcomes from structured gameplay inputs
+- Built a Streamlit dashboard where users can enter match details, generate outcome predictions, and review the factors behind the result
+- Created heatmaps, bar charts, and histograms to compare agent effectiveness, map performance, and composition-level trends
+- Used the analysis to identify stronger team-composition patterns and support more data-informed strategy decisions
 - Live demo: [valorpredict.streamlit.app](https://valorpredict.streamlit.app/)
 
-Tech: Python, scikit-learn, Streamlit, Pandas, data visualization, classification models
+Tech: Python, scikit-learn, Streamlit, Pandas, NumPy, feature engineering, classification models, data visualization
 
 ### Food For U - Restaurant Recommendation App
 
