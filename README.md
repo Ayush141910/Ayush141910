@@ -35,7 +35,7 @@ A real-time risk intelligence platform simulation for operational, business, and
 
 Tech: Python, FastAPI, JavaScript, HTML/CSS, anomaly scoring, forecasting logic, data validation, GitHub Actions
 
-### ValorPredict - Valorant Match Outcome Predictor & Performance Analyzer
+### [ValorPredict - Valorant Match Outcome Predictor & Performance Analyzer](https://github.com/Ayush141910/valorpredict)
 
 A machine learning and analytics project for predicting match outcomes and exploring player, agent, and map performance.
 
@@ -43,6 +43,7 @@ A machine learning and analytics project for predicting match outcomes and explo
 - Trained logistic regression and random forest models for match outcome classification
 - Created visual analysis with heatmaps, bar charts, and histograms to compare agents, maps, and team compositions
 - Developed a Streamlit dashboard for real-time prediction and performance insights
+- Live demo: [valorpredict.streamlit.app](https://valorpredict.streamlit.app/)
 
 Tech: Python, scikit-learn, Streamlit, Pandas, data visualization, classification models
 
