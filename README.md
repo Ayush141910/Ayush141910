@@ -37,16 +37,17 @@ Tech: Python, FastAPI, JavaScript, HTML/CSS, anomaly scoring, forecasting logic,
 
 ### [ValorPredict - Valorant Match Outcome Predictor & Performance Analyzer](https://github.com/Ayush141910/valorpredict)
 
-A machine learning dashboard for predicting Valorant match outcomes and analyzing how agents, maps, and team compositions influence performance.
+A Valorant esports strategy simulator built from professional VCT match history. The app lets users choose a map, build a five-agent composition, set expected per-agent kill lines, and see how those choices change modeled map win probability.
 
-- Processed gameplay data into model-ready features for match context, player performance, agent selection, map choice, and team composition
-- Trained and compared logistic regression and random forest classifiers to predict match outcomes from structured gameplay inputs
-- Built a Streamlit dashboard where users can enter match details, generate outcome predictions, and review the factors behind the result
-- Created heatmaps, bar charts, and histograms to compare agent effectiveness, map performance, and composition-level trends
-- Used the analysis to identify stronger team-composition patterns and support more data-informed strategy decisions
+- Curated VCT 2021-2026 match, map, player-stat, and team-agent composition data into a compact esports analytics dataset
+- Built a Strategy Lab that models win probability from map, five-agent lineup, expected rounds, and per-agent kill targets
+- Added role-aware composition analysis, map-specific agent meta, pair synergy, sample-size warnings, and probability sensitivity by agent
+- Trained a Gradient Boosting strategy model with time-based validation and reported 2026 holdout performance in model cards
+- Included a separate leak-aware pre-match benchmark model to show disciplined validation without using post-match score/player-stat leakage
+- Shipped a Streamlit dashboard, committed model artifacts, architecture docs, calibration reports, tests, Docker/Procfile deployment config, and CI
 - Live demo: [valorpredict.streamlit.app](https://valorpredict.streamlit.app/)
 
-Tech: Python, scikit-learn, Streamlit, Pandas, NumPy, feature engineering, classification models, data visualization
+Tech: Python, scikit-learn, Streamlit, Pandas, NumPy, joblib, feature engineering, model cards, calibration analysis, VCT esports data
 
 ### Food For U - Restaurant Recommendation App
 
