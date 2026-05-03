@@ -136,15 +136,12 @@ current_focus = {
 }
 ```
 
-## GitHub Activity
+## Portfolio Highlights
 
-<div align="center">
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush141910&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush141910&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+- **Flagship project:** AegisFlow, a risk intelligence platform simulation with a live dashboard, FastAPI backend mode, anomaly scoring, decision briefs, tests, CI, and documentation.
+- **Primary focus:** data science, automation, analytics engineering, machine learning systems, and decision-support dashboards.
+- **Engineering style:** clear documentation, reproducible local setup, testable backend logic, and honest production-readiness notes.
+- **Currently improving:** real-time data workflows, forecasting systems, model explainability, and cloud-oriented data engineering patterns.
 
 ## Connect
 
