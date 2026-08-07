@@ -1,62 +1,65 @@
 # Ayush Meshram
 
-**Data Analyst**
+**AI/ML Engineer**
 
-Bradbury, CA, USA | [ayushmeshram1914@gmail.com](mailto:ayushmeshram1914@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-meshram025/) | [GitHub](https://github.com/Ayush141910) | [Portfolio](https://ayush-meshram.vercel.app)
+Bradbury, CA, USA | [ayushmeshram1419@gmail.com](mailto:ayushmeshram1419@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-meshram025/) | [GitHub](https://github.com/Ayush141910) | [Portfolio](https://ayushmeshram.vercel.app)
 
 ## Summary
 
-Data Analyst with experience across healthcare analytics, fraud analytics, KPI reporting, ETL processes, statistical analysis, predictive modeling, and data visualization. Skilled in SQL, Python, Power BI, Tableau, Snowflake, PostgreSQL, MySQL, and Advanced Excel. Strong background in stakeholder-facing reporting, data governance, HIPAA-aware analytics, AML analysis, and business decision support.
+AI/ML Engineer with experience developing machine learning solutions for healthcare and financial services. Skilled in predictive modeling, generative AI, fraud detection, computer vision, clinical decision support, and scalable inference systems. Experienced in building machine learning applications that improve operational efficiency, support risk management, and enable data-driven decision-making.
 
 ## Technical Skills
 
-**Programming & Querying:** SQL, Python, Pandas, NumPy, Advanced Excel
+**Data Processing & Development:** Python, SQL, Bash, Pandas, NumPy, Apache Spark, Git, GitHub, Agile, Scrum
 
-**Data Visualization & Reporting:** Power BI, Tableau, KPI Dashboards, Data Storytelling, Streamlit
+**Machine Learning, Deep Learning & Evaluation:** PyTorch, TensorFlow, scikit-learn, XGBoost, CNNs, U-Net, GANs, Recommendation Systems, Fraud Detection Models, Cross-Validation, Precision, Recall, F1 Score, ROC-AUC, A/B Testing
 
-**Databases & Warehousing:** PostgreSQL, MySQL, Snowflake, MongoDB
+**Gen AI, NLP & Agentic AI:** LLMs, Transformers, BERT, GPT-4, Hugging Face Transformers, LangChain, LlamaIndex, RAG, LangGraph, Multi-Agent Systems, Prompt Engineering, LoRA Fine-Tuning, OpenAI API
 
-**Analytics & Statistical Analysis:** Exploratory Data Analysis, Statistical Analysis, Predictive Analytics, Data Validation, Regression Analysis, Feature Engineering
+**Computer Vision, Optimization & Deployment:** OpenCV, YOLO, SSD, Object Detection, Semantic Segmentation, Quantization, Pruning, Model Compression, Edge Deployment, Real-Time Inference Systems, ONNX Runtime, FastAPI, Flask
 
-**AI / ML & Advanced Analytics:** Machine Learning, scikit-learn, XGBoost, NLP, Generative AI, RAG Concepts
-
-**Business, Governance & Delivery:** Healthcare Analytics, Fraud Analytics, Financial Reporting, Operational Reporting, HIPAA Compliance, Data Governance, Agile / Scrum, Stakeholder Management, Requirement Gathering
+**Cloud Platforms, MLOps & Databases:** AWS S3, AWS EC2, SageMaker, AWS Lambda, Azure ML Studio, Azure Databricks, GCP Vertex AI, Docker, CI/CD Pipelines, MLflow, Airflow, FAISS, Pinecone, Redis
 
 ## Work Experience
 
-### Magellan Health | Data Analyst
+### Markovate | AI/ML Engineer
 
-**Jun 2025 - Present**
+**Jun 2025 - Present | USA**
 
-- Engineered scalable Snowflake data models using Python and MySQL, integrating EHR and claims datasets to improve behavioral health risk analysis accuracy and query performance.
-- Developed interactive Tableau dashboards visualizing behavioral risk trends, enabling leadership to reduce care escalation delays and improve population health monitoring efficiency.
-- Applied data storytelling and exploratory data analysis on behavioral health datasets, increasing patient outreach effectiveness by 28% and improving executive intervention strategies.
-- Conducted A/B testing on patient outreach and care intervention strategies, analyzing engagement patterns in Python to improve follow-up compliance and reduce psychiatric readmission risk.
-- Implemented generative AI clinical note summarization and machine learning risk stratification models, achieving 87% prediction accuracy for provider decision support.
-- Performed healthcare analytics on behavioral health populations while supporting HIPAA-compliant governance and 70% enterprise security compliance assessments.
+- Implemented retrieval-augmented generation across 1.2 million contract pages using LangChain, Azure OpenAI, and FAISS, delivering evidence-based answers with 92% contextual relevance.
+- Streamlined contract obligation tracking for 12 business units using PostgreSQL, scheduled workflows, and Power BI, reducing missed renewal deadlines by 45%.
+- Optimized semantic search across 8 million text chunks using FAISS embeddings and metadata filters, reducing average document discovery time from 12 minutes to 40 seconds.
+- Established human-in-the-loop validation for low-confidence extractions below 55% using FastAPI and reviewer queues, increasing production accuracy to 98%.
+- Configured prompt templates and output schemas for 15 legal use cases using Azure OpenAI and Pydantic, reducing malformed responses by 72%.
+- Set up GitHub Actions workflows for 25+ services to run automated tests, security checks, Docker builds, and deployments, cutting release time by 55%.
 
-### Deloitte | Data Analyst
+### Hexaware Technologies | AI/ML Engineer
 
-**Jan 2023 - Jul 2024**
+**Jan 2023 - Jul 2024 | Mumbai, India**
 
-- Used SQL and PostgreSQL to analyze suspicious transaction patterns and integrate sanctions datasets, improving AML investigation efficiency by 34%.
-- Developed interactive Power BI dashboards for AML transaction monitoring, enabling compliance teams to identify high-risk activities and improve regulatory reporting accuracy.
-- Applied statistical analysis techniques to detect anomalous transaction behaviors, reducing false-positive AML alerts by 29% and improving financial crime investigation effectiveness.
-- Built predictive analysis models and performed feature engineering on transactional datasets to improve money laundering detection and fraud model precision.
-- Created Advanced Excel reporting models using Pivot Tables, Power Query, XLOOKUP, and conditional formatting to validate AML alerts and reconcile transaction exceptions.
-- Automated financial reporting workflows using SQL and Power BI, improving suspicious activity detection by 27% and reducing reconciliation effort.
+- Developed an automated KYC workflow to address slow manual verification, processing 12,000+ annual documents through Python, OpenCV, and OCR, achieving 96% accuracy.
+- Established model-governance workflows across 35 model versions using MLflow, improving reproducibility and reducing production release cycles from 21 to 8 days.
+- Built a customer risk-scoring system across 2.4 million historical records using XGBoost and 45 features, achieving 61% ROC-AUC and strengthening fraud prevention.
+- Deployed scalable inference services using Docker and AWS SageMaker, supporting 350 concurrent requests, maintaining 99.7% availability, and improving operational reliability.
 
 ## Projects
 
 ### AegisFlow - Real-Time Risk & Resilience Platform
 
 - Built a Python/FastAPI risk-intelligence simulation with explainable Aegis scoring, transforming anomaly signals into operator-ready decisions through interactive dashboards and multi-source event correlation workflows.
-- Developed a FastAPI backend with seven endpoints and documented scalable Kafka/Spark streaming architecture, improving anomaly detection workflows, model orchestration, and warehouse-backed operational dashboard capabilities.
+- Developed a FastAPI backend with documented scalable streaming architecture, improving anomaly detection workflows, model orchestration, and warehouse-backed operational dashboard capabilities.
 
 ### ValorPredict - Valorant Match Outcome Predictor & Performance Analyzer
 
-- Built a Streamlit-based esports analytics simulator and trained Gradient Boosting Strategy Lab models, achieving 86.9% balanced accuracy and 95.5% ROC AUC for scenario simulations.
+- Built a Streamlit-based esports analytics simulator and trained Gradient Boosting Strategy Lab models for Valorant match outcome and team-composition analysis.
 - Engineered lineup simulation features and built an interactive Strategy Lab, enabling five-agent lineup analysis, opponent pressure evaluation, and modeled win probability optimization through sensitivity insights.
+
+## Publication
+
+**Conceptualization of Food for U: A Mobile Application for Tourists**  
+Ayush Meshram, Ayush Nandanwar, Aniket Jadhav, Sharwari Prabhughate, Varsha Turkar
+
+Presented Food For U, a mobile restaurant recommendation application for tourists that uses taste preferences, dietary needs, and restaurant/menu attributes to support personalized food discovery.
 
 ## Education
 

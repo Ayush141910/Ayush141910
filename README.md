@@ -2,22 +2,24 @@
 
 <div align="center">
 
+**AI/ML Engineer focused on generative AI, machine learning systems, computer vision, fraud detection, and MLOps**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-meshram025/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmeshram1914@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush-meshram.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmeshram1419@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushmeshram.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Ayush141910/Ayush141910/blob/main/resume.md)
 
 </div>
 
 ## About Me
 
-I am a Data Analyst with experience across healthcare analytics, fraud analytics, KPI reporting, ETL processes, statistical analysis, predictive modeling, and data visualization.
+I am an AI/ML Engineer with experience developing machine learning solutions for healthcare and financial services. My work spans retrieval-augmented generation, predictive modeling, fraud detection, clinical decision support, computer vision workflows, scalable inference services, and production-focused MLOps.
 
-My work sits at the intersection of SQL, Python, Power BI, Tableau, Snowflake, stakeholder-facing reporting, and applied data science. I focus on turning complex healthcare, financial, and operational data into clear dashboards, risk insights, and business-ready decisions.
+I enjoy building practical AI systems that connect strong data processing, model evaluation, reliable APIs, and clean deployment pipelines into products that people can actually use.
 
-- Focused on healthcare analytics, fraud analytics, KPI reporting, and predictive analytics
-- Experienced with SQL, Python, Power BI, Tableau, Snowflake, PostgreSQL, MySQL, and Advanced Excel
-- Comfortable with ETL, data cleaning, exploratory data analysis, statistical analysis, feature engineering, and reporting automation
+- Building with Python, SQL, PyTorch, TensorFlow, scikit-learn, XGBoost, LangChain, FastAPI, Docker, AWS, Azure, and vector search
+- Focused on generative AI, RAG systems, semantic search, computer vision, risk scoring, fraud detection, and scalable inference
+- Experienced with MLflow, GitHub Actions, CI/CD, SageMaker, FAISS, Pinecone, Redis, PostgreSQL, and cloud ML workflows
 - Based in Bradbury, California
 - Graduate background in Data Science from the University of Texas at Arlington
 
@@ -61,47 +63,64 @@ Tech: Flutter, Python, SQL, recommendation systems, ETL, mobile app development
 
 ## Technical Skills
 
-### Programming and Querying
+### Data Processing and Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-### Visualization and Reporting
+### Machine Learning and Deep Learning
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-### Databases and Warehousing
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### Analytics and Delivery
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+### Generative AI and NLP
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=flat&logoColor=white)
+
+### Computer Vision and Inference
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111827?style=flat&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat&logo=onnx&logoColor=white)
+
+### Cloud, MLOps, and Databases
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ## Experience
 
-**Data Analyst** | Magellan Health | Jun 2025 - Present
+**AI/ML Engineer** | Markovate | Jun 2025 - Present
 
-- Engineered scalable Snowflake data models using Python and MySQL to integrate EHR and claims datasets for behavioral health risk analysis
-- Developed Tableau dashboards for behavioral risk trends, population health monitoring, and leadership decision-making
-- Applied EDA, data storytelling, generative AI summarization, and machine learning risk stratification to support healthcare analytics outcomes
+- Implemented retrieval-augmented generation across 1.2 million contract pages using LangChain, Azure OpenAI, and FAISS
+- Optimized semantic search across 8 million text chunks, reducing average document discovery time from 12 minutes to 40 seconds
+- Built validation and reviewer workflows with FastAPI, structured outputs, and human-in-the-loop checks for production AI reliability
+- Set up GitHub Actions workflows for 25+ services covering tests, security checks, Docker builds, and deployments
 
-**Data Analyst** | Deloitte | Jan 2023 - Jul 2024
+**AI/ML Engineer** | Hexaware Technologies | Jan 2023 - Jul 2024
 
-- Used SQL and PostgreSQL to analyze suspicious transaction patterns, integrate sanctions datasets, and improve AML investigation workflows
-- Developed Power BI dashboards for AML transaction monitoring, high-risk activity identification, and regulatory reporting
-- Built statistical analysis, feature engineering, Advanced Excel reporting, and automated SQL/Power BI workflows for fraud analytics
+- Developed an automated KYC workflow processing 12,000+ annual documents through Python, OpenCV, and OCR with 96% accuracy
+- Established model-governance workflows across 35 model versions using MLflow, improving reproducibility and release readiness
+- Built a customer risk-scoring system across 2.4 million historical records using XGBoost and 45 engineered features
+- Deployed scalable inference services with Docker and AWS SageMaker, supporting 350 concurrent requests with 99.7% availability
 
 ## Education
 
@@ -113,26 +132,26 @@ Tech: Flutter, Python, SQL, recommendation systems, ETL, mobile app development
 
 ```python
 current_focus = {
-    "building": ["KPI dashboards", "healthcare analytics workflows", "fraud analytics reporting"],
-    "learning": ["advanced BI storytelling", "predictive analytics", "governed data products"],
-    "interests": ["healthcare analytics", "AML analytics", "data governance", "business intelligence"],
+    "building": ["RAG systems", "semantic search", "computer vision workflows", "scalable inference APIs"],
+    "learning": ["agentic AI", "model optimization", "LLM evaluation", "production MLOps"],
+    "interests": ["healthcare AI", "financial risk modeling", "fraud detection", "clinical decision support"],
 }
 ```
 
 ## Portfolio Highlights
 
-- **Flagship project:** AegisFlow, a risk intelligence platform simulation with a live dashboard, FastAPI backend mode, anomaly scoring, decision briefs, tests, CI, and documentation.
-- **Primary focus:** data analysis, business intelligence, healthcare analytics, fraud analytics, KPI reporting, and predictive analytics.
-- **Analytics style:** clear dashboards, clean data models, stakeholder-friendly reporting, reproducible workflows, and decision-ready storytelling.
-- **Currently improving:** advanced BI storytelling, governed data products, predictive analytics, and healthcare/financial analytics workflows.
+- **Portfolio:** [ayushmeshram.vercel.app](https://ayushmeshram.vercel.app)
+- **Primary focus:** AI/ML engineering, generative AI, computer vision, MLOps, fraud detection, and scalable inference
+- **Engineering style:** practical models, clean APIs, measurable evaluation, reproducible workflows, and recruiter-friendly documentation
+- **Currently improving:** RAG quality, model deployment patterns, agentic AI workflows, and production ML reliability
 
 ## Connect
 
-I am always open to conversations around data analysis, business intelligence, healthcare analytics, fraud analytics, and applied predictive analytics.
+I am open to conversations around AI/ML engineering, generative AI, computer vision, MLOps, fraud detection, healthcare AI, and applied machine learning systems.
 
 - LinkedIn: [ayush-meshram025](https://www.linkedin.com/in/ayush-meshram025/)
-- Email: [ayushmeshram1914@gmail.com](mailto:ayushmeshram1914@gmail.com)
-- Portfolio: [ayush-meshram.vercel.app](https://ayush-meshram.vercel.app)
+- Email: [ayushmeshram1419@gmail.com](mailto:ayushmeshram1419@gmail.com)
+- Portfolio: [ayushmeshram.vercel.app](https://ayushmeshram.vercel.app)
 
 ---
 
